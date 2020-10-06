@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.exe
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.deps.json
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.runtimeconfig.json
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.runtimeconfig.dev.json
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.dll
+C:\Users\Home\source\repos\TUI test\bin\Debug\netcoreapp3.1\TUI test.pdb
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.AssemblyInfo.cs
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.dll
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.pdb
+C:\Users\Home\source\repos\TUI test\obj\Debug\netcoreapp3.1\TUI test.genruntimeconfig.cache
